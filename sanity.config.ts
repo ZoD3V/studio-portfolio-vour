@@ -2,7 +2,6 @@ import {defineConfig} from 'sanity'
 import {structureTool} from 'sanity/structure'
 import {visionTool} from '@sanity/vision'
 import {schemaTypes} from './schemaTypes'
-import {presentationTool} from 'sanity/presentation'
 import {structure} from './structure'
 
 export default defineConfig({
